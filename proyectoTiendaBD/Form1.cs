@@ -16,5 +16,17 @@ namespace proyectoTiendaBD
         {
             InitializeComponent();
         }
+
+        private void toolStripLabel1_Click(object sender, EventArgs e)
+        {
+            InsertarProductos ip = new InsertarProductos();
+            ip.MdiParent = this;
+            ip.Show();
+        }
+
+        private void toolStripLabel2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
