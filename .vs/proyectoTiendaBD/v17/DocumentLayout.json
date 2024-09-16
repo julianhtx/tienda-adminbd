@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{365F1F4D-3657-40F5-B0E3-D6AC3FF9CD00}|Controller\\Controller.csproj|c:\\users\\juli\u00E1n\\source\\repos\\proyectotiendabd\\controller\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365F1F4D-3657-40F5-B0E3-D6AC3FF9CD00}|Controller\\Controller.csproj|solutionrelative:controller\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4008F0-495B-4E80-BECE-301C3CBF821C}|DataAccess\\DataAccess.csproj|c:\\users\\juli\u00E1n\\source\\repos\\proyectotiendabd\\dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4008F0-495B-4E80-BECE-301C3CBF821C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33C19A6-C873-43A1-9BBD-1183CE821140}|proyectoTiendaBD\\proyectoTiendaBD.csproj|c:\\users\\juli\u00E1n\\source\\repos\\proyectotiendabd\\proyectotiendabd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C33C19A6-C873-43A1-9BBD-1183CE821140}|proyectoTiendaBD\\proyectoTiendaBD.csproj|solutionrelative:proyectotiendabd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\Controller\\Class1.cs",
+              "RelativeDocumentMoniker": "Controller\\Class1.cs",
+              "ToolTip": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\Controller\\Class1.cs",
+              "RelativeToolTip": "Controller\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:10:22.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Class1.cs",
+              "ToolTip": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\DataAccess\\Class1.cs",
+              "RelativeToolTip": "DataAccess\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:10:05.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\proyectoTiendaBD\\Form1.cs",
+              "RelativeDocumentMoniker": "proyectoTiendaBD\\Form1.cs",
+              "ToolTip": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\proyectoTiendaBD\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyectoTiendaBD\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:09:36.338Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
