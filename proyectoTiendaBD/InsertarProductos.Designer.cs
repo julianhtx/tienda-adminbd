@@ -179,9 +179,10 @@
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(7, 7, 7, 7);
+            this.Margin = new System.Windows.Forms.Padding(7);
             this.Name = "InsertarProductos";
             this.Text = "InsertarProductos";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.ResumeLayout(false);
             this.PerformLayout();
 

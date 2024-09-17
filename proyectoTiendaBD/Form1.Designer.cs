@@ -90,6 +90,7 @@
             this.toolStripLabel4.Name = "toolStripLabel4";
             this.toolStripLabel4.Size = new System.Drawing.Size(100, 38);
             this.toolStripLabel4.Text = "Borrar";
+            this.toolStripLabel4.Click += new System.EventHandler(this.toolStripLabel4_Click);
             // 
             // toolStripSeparator3
             // 

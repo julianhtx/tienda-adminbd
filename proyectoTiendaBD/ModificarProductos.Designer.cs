@@ -97,7 +97,7 @@
             this.txtBModificar.Location = new System.Drawing.Point(14, 137);
             this.txtBModificar.Multiline = true;
             this.txtBModificar.Name = "txtBModificar";
-            this.txtBModificar.Size = new System.Drawing.Size(1039, 44);
+            this.txtBModificar.Size = new System.Drawing.Size(1175, 44);
             this.txtBModificar.TabIndex = 15;
             this.txtBModificar.TextChanged += new System.EventHandler(this.txtBModificar_TextChanged);
             // 
@@ -108,7 +108,7 @@
             this.dtgvModProductos.Name = "dtgvModProductos";
             this.dtgvModProductos.RowHeadersWidth = 51;
             this.dtgvModProductos.RowTemplate.Height = 24;
-            this.dtgvModProductos.Size = new System.Drawing.Size(1037, 398);
+            this.dtgvModProductos.Size = new System.Drawing.Size(1173, 398);
             this.dtgvModProductos.TabIndex = 16;
             this.dtgvModProductos.CellEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgvModProductos_CellEnter);
             // 
@@ -116,7 +116,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1067, 624);
+            this.ClientSize = new System.Drawing.Size(1205, 624);
             this.Controls.Add(this.dtgvModProductos);
             this.Controls.Add(this.txtBModificar);
             this.Controls.Add(this.label4);
@@ -126,6 +126,7 @@
             this.Controls.Add(this.label1);
             this.Name = "ModificarProductos";
             this.Text = "ModificarProductos";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             ((System.ComponentModel.ISupportInitialize)(this.dtgvModProductos)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

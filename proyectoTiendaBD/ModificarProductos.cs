@@ -14,6 +14,7 @@ namespace proyectoTiendaBD
     public partial class ModificarProductos : Form
     {
         Controller_Modificar cm;
+        Controller_Eliminar ce;
         int fila, columna;
         public static int idProducto;
         public static string producto, descripcion;
@@ -23,12 +24,14 @@ namespace proyectoTiendaBD
         {
             dtgvModProductos.Visible = true;
             cm.MostrarProducto(dtgvModProductos, txtBModificar.Text);
+            ce.EliminarProducto(dtgvModProductos, txtBModificar.Text);
         }
 
         public ModificarProductos()
         {
             InitializeComponent();
             cm = new Controller_Modificar();
+            ce = new Controller_Eliminar();
         }
 
         private void dtgvModProductos_CellEnter(object sender, DataGridViewCellEventArgs e)
@@ -44,6 +47,13 @@ namespace proyectoTiendaBD
                         precio = double.Parse(dtgvModProductos.Rows[fila].Cells[3].Value.ToString());
                         InsertarProductos ip = new InsertarProductos();
                         ip.ShowDialog();
+                        dtgvModProductos.Visible = false;
+                    }
+                    break;
+                case 5:
+                    {
+                        idProducto = int.Parse(dtgvModProductos.Rows[fila].Cells[0].Value.ToString());
+                        ce.Eliminar(idProducto, dtgvModProductos.Rows[fila].Cells[1].Value.ToString());
                         dtgvModProductos.Visible = false;
                     }
                     break;

@@ -95,6 +95,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controller_Eliminar.cs" />
     <Compile Include="Controller_Insertar.cs" />
     <Compile Include="Controller_Modificar.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
