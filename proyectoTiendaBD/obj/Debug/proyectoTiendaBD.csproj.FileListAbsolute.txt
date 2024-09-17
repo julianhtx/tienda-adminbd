@@ -50,3 +50,4 @@ C:\Users\Julián\source\repos\proyectoTiendaBD\proyectoTiendaBD\bin\Debug\System
 C:\Users\Julián\source\repos\proyectoTiendaBD\proyectoTiendaBD\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\Julián\source\repos\proyectoTiendaBD\proyectoTiendaBD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Julián\source\repos\proyectoTiendaBD\proyectoTiendaBD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Julián\source\repos\proyectoTiendaBD\proyectoTiendaBD\obj\Debug\proyectoTiendaBD.ModificarProductos.resources

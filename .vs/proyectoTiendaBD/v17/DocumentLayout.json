@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{365F1F4D-3657-40F5-B0E3-D6AC3FF9CD00}|Controller\\Controller.csproj|c:\\users\\juli\u00E1n\\source\\repos\\proyectotiendabd\\controller\\controller_modificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365F1F4D-3657-40F5-B0E3-D6AC3FF9CD00}|Controller\\Controller.csproj|solutionrelative:controller\\controller_modificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33C19A6-C873-43A1-9BBD-1183CE821140}|proyectoTiendaBD\\proyectoTiendaBD.csproj|c:\\users\\juli\u00E1n\\source\\repos\\proyectotiendabd\\proyectotiendabd\\modificarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33C19A6-C873-43A1-9BBD-1183CE821140}|proyectoTiendaBD\\proyectoTiendaBD.csproj|solutionrelative:proyectotiendabd\\modificarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365F1F4D-3657-40F5-B0E3-D6AC3FF9CD00}|Controller\\Controller.csproj|C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\controller\\controller_insertar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365F1F4D-3657-40F5-B0E3-D6AC3FF9CD00}|Controller\\Controller.csproj|solutionrelative:controller\\controller_insertar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33C19A6-C873-43A1-9BBD-1183CE821140}|proyectoTiendaBD\\proyectoTiendaBD.csproj|C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\proyectotiendabd\\insertarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C33C19A6-C873-43A1-9BBD-1183CE821140}|proyectoTiendaBD\\proyectoTiendaBD.csproj|solutionrelative:proyectotiendabd\\insertarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33C19A6-C873-43A1-9BBD-1183CE821140}|proyectoTiendaBD\\proyectoTiendaBD.csproj|C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\proyectotiendabd\\insertarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33C19A6-C873-43A1-9BBD-1183CE821140}|proyectoTiendaBD\\proyectoTiendaBD.csproj|solutionrelative:proyectotiendabd\\insertarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C33C19A6-C873-43A1-9BBD-1183CE821140}|proyectoTiendaBD\\proyectoTiendaBD.csproj|c:\\users\\juli\u00E1n\\source\\repos\\proyectotiendabd\\proyectotiendabd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C33C19A6-C873-43A1-9BBD-1183CE821140}|proyectoTiendaBD\\proyectoTiendaBD.csproj|solutionrelative:proyectotiendabd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +31,12 @@
       "RelativeMoniker": "D:0:0:{C33C19A6-C873-43A1-9BBD-1183CE821140}|proyectoTiendaBD\\proyectoTiendaBD.csproj|solutionrelative:proyectotiendabd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{365F1F4D-3657-40F5-B0E3-D6AC3FF9CD00}|Controller\\Controller.csproj|c:\\users\\juli\u00E1n\\source\\repos\\proyectotiendabd\\controller\\controller_insertar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{365F1F4D-3657-40F5-B0E3-D6AC3FF9CD00}|Controller\\Controller.csproj|solutionrelative:controller\\controller_insertar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C33C19A6-C873-43A1-9BBD-1183CE821140}|proyectoTiendaBD\\proyectoTiendaBD.csproj|c:\\users\\juli\u00E1n\\source\\repos\\proyectotiendabd\\proyectotiendabd\\modificarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C33C19A6-C873-43A1-9BBD-1183CE821140}|proyectoTiendaBD\\proyectoTiendaBD.csproj|solutionrelative:proyectotiendabd\\modificarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C33C19A6-C873-43A1-9BBD-1183CE821140}|proyectoTiendaBD\\proyectoTiendaBD.csproj|c:\\users\\juli\u00E1n\\source\\repos\\proyectotiendabd\\proyectotiendabd\\insertarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33C19A6-C873-43A1-9BBD-1183CE821140}|proyectoTiendaBD\\proyectoTiendaBD.csproj|solutionrelative:proyectotiendabd\\insertarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F4008F0-495B-4E80-BECE-301C3CBF821C}|DataAccess\\DataAccess.csproj|c:\\users\\juli\u00E1n\\source\\repos\\proyectotiendabd\\dataaccess\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F4008F0-495B-4E80-BECE-301C3CBF821C}|DataAccess\\DataAccess.csproj|C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\dataaccess\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F4008F0-495B-4E80-BECE-301C3CBF821C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33C19A6-C873-43A1-9BBD-1183CE821140}|proyectoTiendaBD\\proyectoTiendaBD.csproj|c:\\users\\juli\u00E1n\\source\\repos\\proyectotiendabd\\proyectotiendabd\\insertarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C33C19A6-C873-43A1-9BBD-1183CE821140}|proyectoTiendaBD\\proyectoTiendaBD.csproj|solutionrelative:proyectotiendabd\\insertarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,37 +46,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\proyectoTiendaBD\\Form1.cs",
               "RelativeDocumentMoniker": "proyectoTiendaBD\\Form1.cs",
               "ToolTip": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\proyectoTiendaBD\\Form1.cs",
               "RelativeToolTip": "proyectoTiendaBD\\Form1.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAxwBwAAAAfAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACMAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T21:49:06.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "InsertarProductos.cs",
               "DocumentMoniker": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\proyectoTiendaBD\\InsertarProductos.cs",
               "RelativeDocumentMoniker": "proyectoTiendaBD\\InsertarProductos.cs",
               "ToolTip": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\proyectoTiendaBD\\InsertarProductos.cs",
               "RelativeToolTip": "proyectoTiendaBD\\InsertarProductos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T21:46:19.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "InsertarProductos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\proyectoTiendaBD\\InsertarProductos.cs",
               "RelativeDocumentMoniker": "proyectoTiendaBD\\InsertarProductos.cs",
@@ -82,27 +94,14 @@
               "RelativeDocumentMoniker": "Controller\\Controller_Insertar.cs",
               "ToolTip": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\Controller\\Controller_Insertar.cs",
               "RelativeToolTip": "Controller\\Controller_Insertar.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T19:10:22.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Functions.cs",
-              "DocumentMoniker": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\DataAccess\\Functions.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Functions.cs",
-              "ToolTip": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\DataAccess\\Functions.cs",
-              "RelativeToolTip": "DataAccess\\Functions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T19:10:05.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\proyectoTiendaBD\\Form1.cs",
               "RelativeDocumentMoniker": "proyectoTiendaBD\\Form1.cs",
@@ -111,6 +110,56 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T19:09:36.338Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller_Modificar.cs",
+              "DocumentMoniker": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\Controller\\Controller_Modificar.cs",
+              "RelativeDocumentMoniker": "Controller\\Controller_Modificar.cs",
+              "ToolTip": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\Controller\\Controller_Modificar.cs",
+              "RelativeToolTip": "Controller\\Controller_Modificar.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:36:26.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModificarProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\proyectoTiendaBD\\ModificarProductos.cs",
+              "RelativeDocumentMoniker": "proyectoTiendaBD\\ModificarProductos.cs",
+              "ToolTip": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\proyectoTiendaBD\\ModificarProductos.cs",
+              "RelativeToolTip": "proyectoTiendaBD\\ModificarProductos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:46:43.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModificarProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\proyectoTiendaBD\\ModificarProductos.cs",
+              "RelativeDocumentMoniker": "proyectoTiendaBD\\ModificarProductos.cs",
+              "ToolTip": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\proyectoTiendaBD\\ModificarProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyectoTiendaBD\\ModificarProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:32:09.868Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\DataAccess\\Functions.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Functions.cs",
+              "ToolTip": "C:\\Users\\Juli\u00E1n\\source\\repos\\proyectoTiendaBD\\DataAccess\\Functions.cs",
+              "RelativeToolTip": "DataAccess\\Functions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:10:05.309Z"
             }
           ]
         }

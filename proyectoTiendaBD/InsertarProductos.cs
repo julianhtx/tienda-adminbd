@@ -15,17 +15,30 @@ namespace proyectoTiendaBD
     public partial class InsertarProductos : Form
     {
         Controller_Insertar ci;
-        public static string producto, descripcion;
-        public static double precio;
+        Controller_Modificar cm;
         public InsertarProductos()
         {
             InitializeComponent();
             ci = new Controller_Insertar();
+            cm = new Controller_Modificar();
+            if (ModificarProductos.idProducto > 0)
+            {
+                txtProducto.Text = ModificarProductos.producto;
+                txtDescripcion.Text = ModificarProductos.descripcion;
+                txtPrecio.Text = ModificarProductos.precio.ToString();
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            ci.Insertar(txtProducto, txtDescripcion, txtPrecio);
+            if(ModificarProductos.idProducto > 0)
+            {
+                cm.Modificar(ModificarProductos.idProducto, txtProducto, txtDescripcion, txtPrecio);
+            }
+            else
+            {
+                ci.Insertar(txtProducto, txtDescripcion, txtPrecio);
+            }
             Close();
         }
     }

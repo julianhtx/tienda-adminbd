@@ -28,5 +28,12 @@ namespace proyectoTiendaBD
         {
             Application.Exit();
         }
+
+        private void toolStripLabel3_Click(object sender, EventArgs e)
+        {
+            ModificarProductos mp = new ModificarProductos();
+            mp.MdiParent = this;
+            mp.Show();
+        }
     }
 }
